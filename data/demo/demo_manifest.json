@@ -1,0 +1,15 @@
+{
+  "source_type": "synthetic_demo",
+  "synthetic": true,
+  "clinical_data": false,
+  "seed": 7,
+  "patient_count": 3,
+  "hours_per_patient": 48,
+  "event_patient_count": 24,
+  "label_note": "Invented monotonic target used only to exercise software; it makes no clinical claim.",
+  "included_patients": [
+    "demo_000",
+    "demo_001",
+    "demo_002"
+  ]
+}
