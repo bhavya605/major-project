@@ -23,6 +23,7 @@ def trajectory(path, modified, history):
 def main():
     st.set_page_config(page_title="ICU Sepsis Research", page_icon="🩺", layout="wide")
     st.title("Continuous ICU monitoring")
+    st.caption("Made by [bhavya605](https://github.com/bhavya605) · Research demonstration")
     st.caption("Hourly patient replay · Early-warning research · Model explanations")
     st.warning("Research prototype. Scores are not validated for patient care.")
     with st.sidebar:
