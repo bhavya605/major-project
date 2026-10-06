@@ -1,1 +1,1 @@
-"""ICU sepsis research package."""
+"""sepsis data package."""
